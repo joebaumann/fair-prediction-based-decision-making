@@ -1,0 +1,11 @@
+name: fair-prediction-based-decision-making
+channels:
+  - defaults
+dependencies:
+  - python=3.8.10
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - seaborn
+  - sympy
